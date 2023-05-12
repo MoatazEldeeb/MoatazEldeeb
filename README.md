@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoatazEldeeb
 - 👀 I’m interested in Web develepment, Data science.
 - 🌱 I’m currently learning frontend, backend web developement.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Deep Learning/ Machine learning project
 - 📫 How to reach me via email: moatazdx1@gmail.com.
 
 <!---
